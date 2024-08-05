@@ -15,6 +15,7 @@ public class Main {
 
             System.out.println("edit somethings");
             System.out.println("hahahaha");
+            System.out.println("bbc");
         }
     }
 }
